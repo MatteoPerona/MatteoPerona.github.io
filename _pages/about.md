@@ -18,8 +18,8 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a student at University of California San Diego studying data science with an emphasis on machine learning. I love [making music](https://soundcloud.com/teo-perona) and surfing in my free time. 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I’m currently researching systems which identify and extract structured data from text using LLMs in order to build better datasets by distilling the unstructured information that already exists on the web. In my startup, [Riso Data](https://www.risodata.com/), we’re applying this technology to build a real-time graph database modeling agricultural supply chains in the global south, starting with West Africa. 
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I also co-founded a student org called [COMPASS](https://compassinstitution.com/) where we carry out data science projects for social good. Our Global Project aims to quantify and predict food insecurity in developing countries. Instead, our Local Project uses language models to distill the most relevant gripes/ideas that students at UCSD are expressing on social platforms as a means to help administration gain a better understanding of what the student body is feeling.   
