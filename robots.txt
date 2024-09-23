@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://MatteoPerona.github.io/al-folio/sitemap.xml
+Sitemap: https://MatteoPerona.github.io/sitemap.xml
