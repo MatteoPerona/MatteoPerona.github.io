@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Joined the NSF [I-Corps](https://new.nsf.gov/funding/initiatives/i-corps).
+Joined the NSF [I-Corps](https://new.nsf.gov/funding/initiatives/i-corps). Later awarded $3k for participation.
