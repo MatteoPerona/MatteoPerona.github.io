@@ -23,13 +23,56 @@
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "name": "Riso Data",
+      "position": "Founder, Technical Lead",
+      "url": "https://www.risodata.com/",
+      "startDate": "2024-02",
+      "endDate": "",
+      "summary": "Building a graph database modeling agricultural supply chains in the global south in real time.",
+      "highlights": [
+        "Built a data mining pipeline using vector stores and structured LLM outputs to search for and extract features from the internet.",
+        "Created partnerships with academics and farmer unions in Senegal to collect and distribute better information on supply chains.",
+        "Used: Langchain, PostgreSQL, AWS, Excel, Networking"
+      ]
+    },
+    {
+      "name": "Tera",
+      "position": "ML Research Intern ",
+      "url": "https://www.tera.earth/",
+      "startDate": "2024-05",
+      "endDate": "2024-07",
+      "summary": "Geospatial AI startup.",
+      "highlights": [
+        "Helped design new approaches for implementing “Large Vision Models” that can learn geospatial context.",
+        "Built a model for predicting the sell-price of houses using in-house image embeddings.",
+        "Used: GCP, Sklearn, Pytorch"
+      ]
+    },
+    {
+      "name": "Riso Data",
+      "position": "Founder, Technical Lead",
+      "url": "https://www.risodata.com/",
+      "startDate": "2024-02",
+      "endDate": "",
+      "summary": "Building a graph database modeling agricultural supply chains in the global south in real time.",
+      "highlights": [
+        "Built a data mining pipeline using vector stores and structured LLM outputs to search for and extract features from the internet.",
+        "Created partnerships with academics and farmer unions in Senegal to collect and distribute better information on supply chains.",
+        "Used: Langchain, PostgreSQL, AWS, Excel, Networking"
+      ]
+    },
+    {
+      "name": "Riso Data",
+      "position": "Founder, Technical Lead",
+      "url": "https://www.risodata.com/",
+      "startDate": "2024-02",
+      "endDate": "",
+      "summary": "Building a graph database modeling agricultural supply chains in the global south in real time.",
+      "highlights": [
+        "Built a data mining pipeline using vector stores and structured LLM outputs to search for and extract features from the internet.",
+        "Created partnerships with academics and farmer unions in Senegal to collect and distribute better information on supply chains.",
+        "Used: Langchain, PostgreSQL, AWS, Excel, Networking"
+      ]
     }
   ],
   "volunteer": [
