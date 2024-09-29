@@ -98,8 +98,8 @@
       "position": "Tutor",
       "url": "https://www.altadenalibrary.org/",
       "startDate": "2019-04",
-      "endDate": "2020-01",
-      "summary": "Tutored underprivileged kids at my local library in math and science.",
+      "endDate": "2020-02",
+      "summary": "Tutored underprivileged kids at my local library in math and science."
     },
     {
       "organization": "Ascencia",
@@ -163,6 +163,15 @@
       ]
     }
   ],
+  "projects": [
+    {
+      "name": "Text Comprehension Using LLMs for Social Good",
+      "summary": "Using LLMs to understand what students at UCSD struggle with by extracting discrete ideas from open-ended text documents online. Originially we were developing the tool to surver the homeless population of San Diego, but after many setbacks we pivoted to servicing the student population.",
+      "startDate": "2023-01",
+      "endDate": "2024-05",
+      "url": "https://drive.google.com/file/d/1Xxl2xLud_qUy-08JdNoaC1945VtJbJhN/view"
+    }
+  ],
   "awards": [
     {
       "title": "HDSI Scholarship",
@@ -174,35 +183,51 @@
   ],
   "skills": [
     {
-      "name": "Physics",
-      "level": "Master",
+      "name": "SWE",
+      "level": "Proficient",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
         "Python",
-        "Langchain",
         "C#",
         "Java",
         "Rust",
         "JS",
         "Docker",
         "Github Actions",
-        "Substrate",
-        "Pytorch",
         "Unity3D",
         "React",
         "Ethereum",
-        "Matlab",
-        "R",
         "Selenium",
-        "CI/CD",
-        "Ink!",
+        "CI/CD"
+      ]
+    },
+    {
+      "name": "Data Science / ML",
+      "level": "Experienced",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "Langchain",
+        "Pytorch",
         "SQL",
         "AWS",
         "GCP",
         "Azure",
-        "Flask"
+        "Flask",
+        "Matlab",
+        "R"
+      ]
+    },
+    {
+      "name": "Blockchain",
+      "level": "Itermediate",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "Substrate",
+        "Ink!",
+        "Ethereum"
       ]
     }
+
   ],
   "languages": [
     {
@@ -233,16 +258,6 @@
         "Quantum Communication",
         "Quantum Teleportation"
       ]
-    }
-  ],
-  "projects": [
-    {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
     }
   ]
 }
