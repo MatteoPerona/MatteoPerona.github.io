@@ -165,35 +165,6 @@
       "url": "https://peronaplanner.com/"
     }
   ],
-  "volunteer": [
-    {
-      "organization": "Altadena Library",
-      "location": "Altadena, California",
-      "position": "Tutor",
-      "url": "https://www.altadenalibrary.org/",
-      "startDate": "2019-04",
-      "endDate": "2020-02",
-      "summary": "Tutored underprivileged kids at my local library in math and science."
-    },
-    {
-      "organization": "Ascencia",
-      "location": "Pasadena, California",
-      "position": "Cook",
-      "url": "https://www.ascenciaca.org/",
-      "startDate": "2019-04",
-      "endDate": "2020-01",
-      "summary": "Cooked meals for transitioning homeless families."
-    },
-    {
-      "organization": "COMAPSS Food Drives",
-      "location": "San Diego, California",
-      "position": "Organizer",
-      "url": "https://compassinstitution.com/",
-      "startDate": "2022-09",
-      "endDate": "2023-12",
-      "summary": "Organized and carried out three food drives with my student org in San Diego's East Village."
-    }
-  ],
   "awards": [
     {
       "title": "HDSI Scholarship",
@@ -231,11 +202,40 @@
       "summary": "$3k Awarded to continue work on Riso Data."
     },
     {
-      "title": "",
+      "title": "NSF I-Corps Award",
       "date": "2025-07",
       "awarder": "IGE @ UCSD",
       "url": "https://ige.ucsd.edu/programs/i-corps",
       "summary": "$3k Awarded for participation in the NSF's I-Corps with Riso Data by the Institute for the Global Entrepreneur at UCSD."
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Altadena Library",
+      "location": "Altadena, California",
+      "position": "Tutor",
+      "url": "https://www.altadenalibrary.org/",
+      "startDate": "2019-04",
+      "endDate": "2020-02",
+      "summary": "Tutored underprivileged kids at my local library in math and science."
+    },
+    {
+      "organization": "Ascencia",
+      "location": "Pasadena, California",
+      "position": "Cook",
+      "url": "https://www.ascenciaca.org/",
+      "startDate": "2019-04",
+      "endDate": "2020-01",
+      "summary": "Cooked meals for transitioning homeless families."
+    },
+    {
+      "organization": "COMAPSS Food Drives",
+      "location": "San Diego, California",
+      "position": "Organizer",
+      "url": "https://compassinstitution.com/",
+      "startDate": "2022-09",
+      "endDate": "2023-12",
+      "summary": "Organized and carried out three food drives with my student org in San Diego's East Village."
     }
   ],
   "skills": [
