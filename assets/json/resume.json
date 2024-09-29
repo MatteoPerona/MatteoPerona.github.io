@@ -7,18 +7,13 @@
     "url": "https://matteoperona.github.io",
     "summary": "I'm a data science student and startup founder currently working on AI applications in supply chains modeling.",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
+      "address": "",
+      "postalCode": "",
+      "city": "San Diego",
       "countryCode": "US",
       "region": "California"
     },
     "profiles": [
-      {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
-      }
     ]
   },
   "work": [
@@ -49,24 +44,23 @@
       ]
     },
     {
-      "name": "Riso Data",
-      "position": "Founder, Technical Lead",
+      "name": "Caltech",
+      "position": "Quantitative Oceanography Intern ",
       "url": "https://www.risodata.com/",
-      "startDate": "2024-02",
-      "endDate": "",
-      "summary": "Building a graph database modeling agricultural supply chains in the global south in real time.",
+      "startDate": "2019-06",
+      "endDate": "2019-08",
+      "summary": "Paleoclimate estimation by analysis of micro elements in deep sea fossilized corals.",
       "highlights": [
-        "Built a data mining pipeline using vector stores and structured LLM outputs to search for and extract features from the internet.",
-        "Created partnerships with academics and farmer unions in Senegal to collect and distribute better information on supply chains.",
-        "Used: Langchain, PostgreSQL, AWS, Excel, Networking"
+        "Processed coral samples throughout mass spectrometry.",
+        "Regularly met with lab to discuss results and maintenance of mass spectrometer."
       ]
     },
     {
-      "name": "Riso Data",
-      "position": "Founder, Technical Lead",
+      "name": "Permissionless Labs",
+      "position": "Software Engineering",
       "url": "https://www.risodata.com/",
-      "startDate": "2024-02",
-      "endDate": "",
+      "startDate": "2022-08",
+      "endDate": "2024-01",
       "summary": "Building a graph database modeling agricultural supply chains in the global south in real time.",
       "highlights": [
         "Built a data mining pipeline using vector stores and structured LLM outputs to search for and extract features from the internet.",
@@ -77,12 +71,12 @@
   ],
   "volunteer": [
     {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
+      "organization": "Altadena Library",
+      "location": "Altadena, California",
+      "position": "Tutor",
+      "url": "https://www.altadenalibrary.org/",
+      "startDate": "2019-04",
+      "endDate": "2020-01",
       "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
       "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
     }

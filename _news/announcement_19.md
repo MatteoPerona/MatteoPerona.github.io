@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Joined the NSF [I-Corps](https://new.nsf.gov/funding/initiatives/i-corps). Later awarded $3k for participation.
+Joined the NSF [I-Corps](https://new.nsf.gov/funding/initiatives/i-corps) with [Riso Data](https://www.risodata.com/). Later awarded $3k for participation.

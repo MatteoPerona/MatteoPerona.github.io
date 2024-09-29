@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Launched a startup, Mansa, to build a commodities exchange for developing economies called Riso. We came up with the idea through our work on Global Project in COMPASS.
+Created a startup, Mansa, to build a commodities exchange for developing economies, [Riso](https://github.com/MatteoPerona/Riso), after realizing the need for better supply chains through our research on food insecurity.

@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Received a $10k grant from the [Web3 Foundation](https://web3.foundation/) to build an open source version of Riso. Read about what I built [here](https://medium.com/@matteo-perona/ssal-smart-contract-commodities-4d6f1b7f728b).
+Received a $10k grant from the [Web3 Foundation](https://web3.foundation/) to build an open source version of Riso (commodities exchange). Read about what I built [here](https://medium.com/@matteo-perona/ssal-smart-contract-commodities-4d6f1b7f728b).

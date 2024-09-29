@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Pivoted Local Project to focus on helping the student population instead of homeless because of limited time and numerous bureaucratic issues.
+Pivoted Local Project to focus on helping the student population instead of homeless because of limited time and numerous bureaucratic issues surrounding homelessness data access and collection.

@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Pivoted to a new product, [Riso Data](https://www.risodata.com/), a real-time graph database for modeling Senegalese Agricultural Supply Chain, after realizing the immediate need for accurate data in the region.
+Pivoted the startup to a new product, [Riso Data](https://www.risodata.com/), a real-time graph database for modeling Senegalese Agricultural Supply Chain, after realizing the immediate need for accurate data in the region.

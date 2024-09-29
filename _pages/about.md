@@ -24,6 +24,6 @@ I’m currently building systems to identify and extract structured data from te
 
 I also co-founded a student org called [COMPASS](https://compassinstitution.com/) where we carry out data science projects for social good. Our Global Project aims to quantify and predict food insecurity in developing countries. Instead, our Local Project uses language models to distill the most relevant gripes/ideas that students at UCSD are expressing on social platforms as a means to help administration gain a better understanding of what the student body is feeling.  
 
-I have raised over $26k during over the course of my undergrad through my work on [Riso Data](https://www.risodata.com/), [COMPASS](https://compassinstitution.com/), and research projects with academics. 
+I have raised over $26k over the course of my undergrad through my work on [Riso Data](https://www.risodata.com/), [COMPASS](https://compassinstitution.com/), and research projects with academics. 
 
 Please feel free to read through my news feed to get a better idea of what I've been up to during my undergrad!

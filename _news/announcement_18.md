@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Got a $3k Grant from a Cal Private Bank for [Riso Data](https://www.risodata.com/).
+Got a $3k Grant from a Cal Private Bank for work on [Riso Data](https://www.risodata.com/).
